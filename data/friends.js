@@ -4,7 +4,7 @@ var friendsList = [
             name: 'John Tran',
             photo: 'https://img.buzzfeed.com/buzzfeed-static/static/2015-12/2/7/enhanced/webdr06/enhanced-25601-1449059962-8.png?downsize=715:*&output-format=auto&output-quality=auto',
             surveyResponses: [4, 5, 1, 2, 3, 4, 1, 2, 1, 5]
-    
+
         }, {
             name: 'Richard Lee',
             photo: 'https://imgflip.com/s/meme/Troll-Face.jpg',
