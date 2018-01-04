@@ -24,11 +24,16 @@ module.exports = function(app) {
 
                 //each time outer loop runs want to compare
             }
+            survey.push(totalDifference);
 
         //compare the current total difference with the current best friend score, if score is lower
         //make current friend the new best friend
-
+        for (var k = 0; k < survey.length; k++) {
+            if (survey[k] == totalDifference) {
+                var bestFriend = 
+            }
         }
+
 
         
     });

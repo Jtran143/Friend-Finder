@@ -39,7 +39,7 @@ $(".submit").on("click", function () {
     function survey () {
         var survey = [];
         for (i = 1; i <= 10; i++) {
-            var ans = $("#q" + 1).val().trim();
+            var ans = $("#q").val().trim();  //is this right?
 
             survey.push(ans);
         }
