@@ -28,11 +28,12 @@ module.exports = function(app) {
 
         //compare the current total difference with the current best friend score, if score is lower
         //make current friend the new best friend
-        for (var k = 0; k < survey.length; k++) {
-            if (survey[k] == totalDifference) {
-                var bestFriend = 
+            for (var k = 0; k < survey.length; k++) {
+                if (survey[k] == totalDifference) {
+                    // var bestFriend = 
+                }
             }
-        }
+        }   
 
 
         
